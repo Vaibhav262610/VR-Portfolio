@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Main from './Main'
 import Navbar from './Navbar'
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       </Head>
 
       <Navbar />
+      <Main />
 
 
 

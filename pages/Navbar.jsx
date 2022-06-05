@@ -2,8 +2,7 @@ import React from 'react'
 import { AiOutlineMenu , AiOutlineClose, AiOutlineMail  } from "react-icons/ai";
 import Link from 'next/link'
 import { useState } from 'react';
-import { BsFillPersonFill } from 'react-icons/bs'
-import { FaLinkedinIn , FaGithub } from 'react-icons/fa';
+
 
 const Navbar = () => {
 
